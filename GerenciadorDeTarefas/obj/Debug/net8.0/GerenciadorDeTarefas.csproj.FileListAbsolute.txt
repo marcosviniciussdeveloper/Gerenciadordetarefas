@@ -1,0 +1,4 @@
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
