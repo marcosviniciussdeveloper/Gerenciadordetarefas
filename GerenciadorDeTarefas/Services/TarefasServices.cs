@@ -4,27 +4,39 @@ using System.Collections.Generic;
 
 namespace GerenciadorDeTarefas.Services
 {
-    private readonly List<Tarefas> tarefas = new List<Tarefas>();
 
+   public class GerenciadorTarefasService
+    { 
 
-    public void AdicionarTarefas(Tarefas tarefas)
+    private readonly List<Tarefa> tarefas = new List<Tarefa>();
+
+    //Metodo para adicionar tarefa 
+    public void AdicionarTarefas(string titulo)
     {
-        Tarefas.Titulo = titulo;
-        concluida = false; 
-         tarefas.Add(tarefas);
 
+            var novaTarefa = new Tarefa
+            {
+                Titulo = titulo,
+                Concluida = false
+            };
+
+
+        tarefas.Add(novaTarefa);
+        Console.WriteLine("Tarefa adicionada com sucesso");
     }
-    private void listartarefas(Listar listar)
-    {
-        
-        Console.Writeline("Aqui está todas as suas tarefas :")
-        if (tarefas.Count == 0)
+        //Metódo para exibir o numero de  tarefas
+        public void ListarTarefas()
         {
-            Console.WriteLine("Não ha tarefas a serem realizadas")
-            return Tarefas;
-         
-            
-          foreach (var tarefas in tarefas) 
+
+            Console.WriteLine("Aqui está todas as suas tarefas :");
+   
+
+          if (tarefas.Count == 0)
+            {
+                Console.WriteLine("Não há tarefas a serem realizadas");
+            return;
+            }
+            foreach (var tarefa in tarefas)
             {
 
                 Console.WriteLine($"Título: {tarefa.Titulo}, Concluída: {tarefa.Concluida}");
@@ -32,40 +44,34 @@ namespace GerenciadorDeTarefas.Services
             }
         }
 
-       
-    }
-
-    public void RemoverTarefas(Remover remover)  
+    public void RemoverTarefas(int remover)
     {
-        if numnero >= 0 && numero < tarefas.Count)
+        if (remover >= 0 && remover < tarefas.Count)
         {
-            tarefas.RemoverAt(numero);
-        }
-        else 
-        }
-          Console.WriteLine("Posição do Indice  invalida")
+        tarefas.RemoveAt(remover);
+        Console.WriteLine("Tarefa Removida com sucesso");
         }
 
-
-
-        public void ConcluirTarefas(int numero)
+        else
         {
-          if (numero < 0 || numero >= tarefa.Length)
-          {
-        Console.WriteLine("Erro: Número de tarefa inválido.");
-        return;
-          }
-
-    tarefa[numero].Concluida = true;
-    Console.WriteLine("Tarefa concluída com sucesso!");
+        Console.WriteLine("Posição do Indice  invalida");
         }
-
-            
-
+   }
 
 
+    public void ConcluirTarefas(int numero)
+    {
+       if (numero < 0 || numero >= tarefas.Count)
+       {
+        
+       Console.WriteLine("Erro: Número de tarefa inválido.");
+       return;
+       }
 
-   
+       tarefas[numero].Concluida = true;
+       Console.WriteLine("Tarefa concluída com sucesso!");
 
 
+       }
+    }
 }

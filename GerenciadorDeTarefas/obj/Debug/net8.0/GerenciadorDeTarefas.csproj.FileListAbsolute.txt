@@ -2,3 +2,14 @@ C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debu
 C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
 C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfo.cs
 C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.sourcelink.json
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.exe
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.deps.json
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.runtimeconfig.json
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\refint\GerenciadorDeTarefas.dll
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\mv834\Desktop\ProjetoGerenciadordetarefas\GerenciadorDeTarefas\obj\Debug\net8.0\ref\GerenciadorDeTarefas.dll

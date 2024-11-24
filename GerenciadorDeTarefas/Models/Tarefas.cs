@@ -1,13 +1,10 @@
 namespace GerenciadorDeTarefas.Models
 {
 
-    public class Tarefas 
+    public class Tarefa
     {
-        public string listar {  get; set; }
-        public string Adicionar {  get; set; }
-        public string Descricao { get; set; }
-        public bool Remover { get; set; }
-        
+        public string Titulo { get; set; }
+        public bool Concluida { get; set; }
         
 
 
