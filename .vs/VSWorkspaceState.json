@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\GerenciadorDeTarefas",
-    "\\GerenciadorDeTarefas\\Models",
-    "\\GerenciadorDeTarefas\\obj",
-    "\\GerenciadorDeTarefas\\Services"
+    ""
   ],
-  "SelectedNode": "\\GerenciadorDeTarefas\\Models\\Tarefas.cs",
   "PreviewInSolutionExplorer": false
 }
