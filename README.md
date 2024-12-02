@@ -16,6 +16,7 @@ O objetivo da branch `dev` é fornecer um ambiente seguro para implementar, revi
 ## Alterações em Andamento
 
 As seguintes modificações estão sendo realizadas nesta branch:
+- [Restruturação do projeto}
 - [Integração com Banco de dados ].
 - [Tratamento de erros e logica].
 
