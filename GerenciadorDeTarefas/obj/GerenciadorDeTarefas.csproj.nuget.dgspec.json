@@ -44,11 +44,38 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< Updated upstream:GerenciadorDeTarefas/obj/GerenciadorDeTarefas.csproj.nuget.dgspec.json
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+=======
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Aspose.SVG": {
+              "target": "Package",
+              "version": "[24.11.0, )"
+            },
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "Svg": {
+              "target": "Package",
+              "version": "[3.4.7, )"
+            }
+          },
+>>>>>>> Stashed changes:GerenciadorDeTarefas2.0/obj/GerenciadorDeTarefas2.0.csproj.nuget.dgspec.json
           "imports": [
             "net461",
             "net462",
@@ -65,7 +92,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< Updated upstream:GerenciadorDeTarefas/obj/GerenciadorDeTarefas.csproj.nuget.dgspec.json
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes:GerenciadorDeTarefas2.0/obj/GerenciadorDeTarefas2.0.csproj.nuget.dgspec.json
         }
       }
     }
