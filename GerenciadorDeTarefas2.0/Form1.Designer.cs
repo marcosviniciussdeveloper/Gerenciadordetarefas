@@ -9,7 +9,7 @@ namespace GerenciadorDeTarefas2._0
         /// Variável necessária para o designer.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-        private System.Windows.Forms.Panel menuPanel;
+        //private System.Windows.Forms.Panel menuPanel; // Remover esta linha
         private TextBox txtTitulo;
         private Button button1;
         private Button button2;
