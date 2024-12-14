@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+<<<<<<< HEAD
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorDeTarefas2.0", "GerenciadorDeTarefas2.0.csproj", "{D18A8778-9AC4-4CCE-BFE6-D62FECEACDDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{DB1207F5-828C-4717-84DA-5E47785FF38D}"
+=======
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorDeTarefas2.0", "GerenciadorDeTarefas2.0.csproj", "{39536362-682C-48DE-B3FB-0F256AF1863A}"
+>>>>>>> main
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{D18A8778-9AC4-4CCE-BFE6-D62FECEACDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18A8778-9AC4-4CCE-BFE6-D62FECEACDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18A8778-9AC4-4CCE-BFE6-D62FECEACDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18A8778-9AC4-4CCE-BFE6-D62FECEACDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{39536362-682C-48DE-B3FB-0F256AF1863A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39536362-682C-48DE-B3FB-0F256AF1863A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39536362-682C-48DE-B3FB-0F256AF1863A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39536362-682C-48DE-B3FB-0F256AF1863A}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> main
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

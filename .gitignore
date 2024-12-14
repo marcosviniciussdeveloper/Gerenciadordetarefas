@@ -1,0 +1,18 @@
+# Ignore o diretório bin/ e obj/ (arquivos de build)
+bin/
+obj/
+
+# Ignore o diretório do Visual Studio (.vs)
+.vs/
+
+# Ignore arquivos de usuário específicos (usuário do VS)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache do NuGet
+.nuget/
+
+# Arquivos de log
+*.log
