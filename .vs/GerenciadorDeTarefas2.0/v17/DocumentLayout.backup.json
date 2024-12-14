@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Tarefas..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tarefas..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\Tarefas..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorTarefasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorDeTarefas2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\DesignerHelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesignerHelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GerenciadorDeTarefas2.0\\DesignerHelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,9 +53,9 @@
               "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\Form1.Designer.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:21:48.492Z",
@@ -70,9 +70,9 @@
               "DocumentIndex": 1,
               "Title": "Tarefas..cs",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Tarefas..cs",
-              "RelativeDocumentMoniker": "Tarefas..cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\Tarefas..cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Tarefas..cs",
-              "RelativeToolTip": "Tarefas..cs",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\Tarefas..cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:26:37.934Z"
@@ -82,9 +82,9 @@
               "DocumentIndex": 7,
               "Title": "DesignerHelp.cs",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\DesignerHelp.cs",
-              "RelativeDocumentMoniker": "DesignerHelp.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\DesignerHelp.cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\DesignerHelp.cs",
-              "RelativeToolTip": "DesignerHelp.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\DesignerHelp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:21:48.445Z"
@@ -93,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,22 +106,20 @@
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\Form1.cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T15:21:48.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T15:21:48.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GerenciadorTarefasService.cs",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs",
-              "RelativeDocumentMoniker": "GerenciadorTarefasService.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs",
-              "RelativeToolTip": "GerenciadorTarefasService.cs",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\GerenciadorTarefasService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:21:48.51Z"
@@ -130,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GerenciadorDeTarefas2.0.csproj",
-              "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorDeTarefas2.0.csproj",
+              "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0.csproj",
-              "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\GerenciadorDeTarefas2.0.csproj",
+              "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0.csproj",
               "RelativeToolTip": "GerenciadorDeTarefas2.0.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -143,9 +141,9 @@
               "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeTarefas2.0\\Form1.cs",
               "ToolTip": "C:\\Users\\mv834\\Desktop\\ProjetoGerenciadordetarefas\\GerenciadorDeTarefas2.0\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "GerenciadorDeTarefas2.0\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T15:21:52.904Z"
             }
